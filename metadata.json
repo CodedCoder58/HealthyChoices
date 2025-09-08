@@ -1,0 +1,7 @@
+{
+  "name": "Future Self Timeline",
+  "description": "A wellness quiz that uses AI to generate images of your future self based on your lifestyle choices. Upload or take a photo, answer questions about your health habits, and see a visual timeline of your potential aging process.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
